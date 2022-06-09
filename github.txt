@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=hQcFE0RD0cQ
+
+difference between merge and rebase?
+
+ssh to create a authentication key
+
+git add origin master "url"
+
+git status
+
+git add. --to add the untracked files from working rep to local
+
+git commit -m "message"
+
+git push origin master
+
+=====
+cat filename --to see file contents
+git checkout master --to switch on masterbranch from current branch
+ls --to list out current files in repository
+
+Git rebase and merge both integrate changes from one branch into another. Where they differ is how it's done. 
+Git rebase moves a feature branch into a master. Git merge adds a new commit, preserving the history. 
+
